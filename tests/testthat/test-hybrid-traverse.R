@@ -1,4 +1,5 @@
 context("hybrid-traverse")
+skip("")
 
 test_df <- data_frame(
   id = c(1L, 2L, 2L),
